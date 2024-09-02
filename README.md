@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me
 - Email: pankaj.jagtap569@gmail.com 
-- LinkedIn: {https://www.linkedin.com/in/pankaj-jagtap-52b6031aa}
+- LinkedIn: {https://www.linkedin.com/in/pankaj-jagtap-52b6031aa/}
 - GitHub: [github.com/Kumbhkaran27](https://github.com/Kumbhkaran27)
 
 ## 😄 Pronouns
