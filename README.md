@@ -28,7 +28,7 @@
 
 ### About Me
 
-With over 2 years of experience as a software engineer, I specialize in backend development and cloud technologies. I’ve developed solutions in Java, Spring Boot, Golang, Scala, and Kubernetes, and have a proven track record of solving critical issues and enhancing application performance. My recent projects include a To-Do List application using Spring Boot and Maven and a Flutter-based Battleships game for a machine problem.
+With over 2 years of experience as a software engineer, I specialize in backend development and cloud technologies. I’ve developed solutions in Java, Spring Boot, React and have a proven track record of solving critical issues and enhancing application performance. My recent projects include a Github-timeseries_Forecasting.  application using React and flask and a Flutter-based Battleships game for a machine problem.
 
 Feel free to explore my repositories and connect with me!
 
